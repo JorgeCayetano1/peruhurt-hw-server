@@ -15,10 +15,9 @@ services:
     ports:
       - "12871:12871/udp"
       - "12881:12881/udp"
-    volumes:
-      - hurtworld_data:/home/steam/hurtworld
+    # volumes:
+    #   - hurtworld_data:/home/steam/hurtworld
     restart: always
-
-volumes:
-  hurtworld_data:
-    external: false
+# volumes:
+#   hurtworld_data:
+#     external: false

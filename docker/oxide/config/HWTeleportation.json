@@ -1,0 +1,25 @@
+{
+  "TPR": {
+    "Enabled": true,
+    "Pending Timer (in seconds)": 30.0,
+    "Teleport Timer (in seconds)": 15.0,
+    "Cooldown (in minutes)": 5.0
+  },
+  "Home": {
+    "Enabled": true,
+    "Check for Stakes (true/false)": true,
+    "Stake Detection Radius": 10.0,
+    "Teleport Timer (in seconds)": 15.0,
+    "Cooldown (in minutes)": 5.0,
+    "Home Count Limit": 3,
+    "Home Count Limits (granted by permissions)": {
+      "HWTeleportation.homelimit.basic": 1,
+      "HWTeleportation.homelimit.extended": 2
+    }
+  },
+  "Warp": {
+    "Enabled": true,
+    "Teleport Timer (in seconds)": 15.0,
+    "Cooldown (in minutes)": 10.0
+  }
+}
