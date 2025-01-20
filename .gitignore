@@ -1,0 +1,31 @@
+# Directorios generados por Docker
+docker_data/
+volumes/
+*.log
+
+# Archivos de entorno y configuraciones sensibles
+.env
+*.env
+
+# Archivos de Docker que no se quieran versionar
+docker-compose.override.yml
+docker-compose.prod.yml
+
+# Archivos de compilación y temporales
+*.tmp
+*.swp
+*.bak
+*.pid
+*.sock
+
+# Archivos o carpetas específicas del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de caché de editor/IDE
+.vscode/
+.idea/
+*.iml
+
+# Archivos generados por el contenedor durante la ejecución
+/home/steam/hurtworld

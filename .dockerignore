@@ -1,0 +1,11 @@
+# Contents of /hurtworld-server/hurtworld-server/.dockerignore
+
+.git
+node_modules
+*.log
+*.tmp
+*.swp
+.DS_Store
+.env
+README.md
+docker/entrypoint.sh

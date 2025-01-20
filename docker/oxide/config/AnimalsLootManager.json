@@ -1,0 +1,114 @@
+{
+  "Creatures": {
+    "Creatures/Antor": {
+      "replaceLoot": false,
+      "lootConfig": [
+        {
+          "name": "Amber",
+          "max": 2,
+          "min": 1,
+          "chance": 90.0
+        }
+      ]
+    },
+    "Creatures/Bandrill": {
+      "replaceLoot": false,
+      "lootConfig": [
+        {
+          "name": "Amber",
+          "max": 2,
+          "min": 1,
+          "chance": 90.0
+        }
+      ]
+    },
+    "Creatures/Bor": {
+      "replaceLoot": false,
+      "lootConfig": [
+        {
+          "name": "Amber",
+          "max": 2,
+          "min": 1,
+          "chance": 90.0
+        }
+      ]
+    },
+    "Creatures/Shigi": {
+      "replaceLoot": false,
+      "lootConfig": [
+        {
+          "name": "Amber",
+          "max": 2,
+          "min": 1,
+          "chance": 90.0
+        }
+      ]
+    },
+    "Creatures/Rafaga": {
+      "replaceLoot": false,
+      "lootConfig": [
+        {
+          "name": "Amber",
+          "max": 2,
+          "min": 1,
+          "chance": 90.0
+        }
+      ]
+    },
+    "Creatures/Sabra": {
+      "replaceLoot": false,
+      "lootConfig": [
+        {
+          "name": "Amber",
+          "max": 2,
+          "min": 1,
+          "chance": 90.0
+        }
+      ]
+    },
+    "Creatures/Skoogler": {
+      "replaceLoot": false,
+      "lootConfig": [
+        {
+          "name": "Amber",
+          "max": 2,
+          "min": 1,
+          "chance": 90.0
+        }
+      ]
+    },
+    "Creatures/Thornling": {
+      "replaceLoot": false,
+      "lootConfig": [
+        {
+          "name": "Amber",
+          "max": 2,
+          "min": 1,
+          "chance": 90.0
+        }
+      ]
+    },
+    "Creatures/Tokar": {
+      "replaceLoot": false,
+      "lootConfig": [
+        {
+          "name": "Amber",
+          "max": 2,
+          "min": 1,
+          "chance": 90.0
+        }
+      ]
+    },
+    "Creatures/Yeti": {
+      "replaceLoot": false,
+      "lootConfig": [
+        {
+          "name": "Amber",
+          "max": 2,
+          "min": 1,
+          "chance": 90.0
+        }
+      ]
+    }
+  }
+}

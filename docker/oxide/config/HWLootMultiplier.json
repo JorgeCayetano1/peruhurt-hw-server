@@ -1,0 +1,39 @@
+{
+  "Global multiplier": {
+    "Enable global multiplier": true,
+    "Global multiplier": 3
+  },
+  "Day/Night multiplier": {
+    "Enable day/night multiplier": false,
+    "Day multiplier": 1,
+    "Night multiplier": 1,
+    "Time check interval": 5
+  },
+  "Machines": {
+    "Mining drills": 1,
+    "Vehicles": 1
+  },
+  "Resources": {
+    "Plants": 1,
+    "Gather": 1,
+    "Animals": 1,
+    "Pick up": 1,
+    "Explodable mining rocks": 1
+  },
+  "Cases": {
+    "Red town case": 1,
+    "Purple town case": 1,
+    "Fragments case T1": 1,
+    "Fragments case T2": 1,
+    "Fragments case T3": 1
+  },
+  "Events": {
+    "Airdrop": 1,
+    "Loot frenzy": 1,
+    "Control town reward (Amount of cases)": 1
+  },
+  "Towns": {
+    "Boxes": 1,
+    "Blacklist": ["Full/NameKey/Here"]
+  }
+}
